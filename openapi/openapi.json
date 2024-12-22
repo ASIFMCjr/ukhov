@@ -1,0 +1,19 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "A getting started API",
+    "version": "1.0.0"
+  },
+  "tags": [
+    {
+      "name": "health",
+      "description": "Health check"
+    },
+    {
+      "name": "calculator",
+      "description": "Calculator operations"
+    }
+  ],
+  "paths": {},
+  "components": {}
+}
